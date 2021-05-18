@@ -18,6 +18,7 @@ body{
     background: url(UMGHuehue.jpg);
     background-attachment: scroll;
     background-size: cover;
+	height: 100vh;
 
 }
 
