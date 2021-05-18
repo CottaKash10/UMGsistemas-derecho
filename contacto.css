@@ -16,6 +16,7 @@ body{
     background: url(fondo.jpg);
     background-attachment: scroll;
     background-size: cover;
+	height: 100vh;
 
 }
 
