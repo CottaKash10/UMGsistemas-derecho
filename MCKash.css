@@ -23,6 +23,7 @@ body{
     background: url(fondo2.jpg);
     background-attachment: scroll;
     background-size: cover;
+	height: 100vh;
 
 }
 
